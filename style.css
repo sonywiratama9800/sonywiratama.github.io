@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(/tugasPortofolio/asset/background1.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100vh;
+}
+
+#project {
+  background-color: #286eab;
+}
+
+section {
+  padding-top: 5rem;
+}
